@@ -1,0 +1,20 @@
+{
+  "name": "paysera test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js input.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest-cli": "^26.0.1"
+  },
+  "dependencies": {
+    "axios": "^0.25.0",
+    "moment": "^2.26.0",
+    "node-fetch": "^2.6.0"
+  }
+}
